@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 26
+   "count": 25
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,15 @@
   }
  ],
  "items": [
+  {
+   "id": "1701ac3bc2c1",
+   "title": "معرفی فینالیست‌های جوایز عکاسی کمدی نیکون 2026",
+   "url": "https://yphc.ir/news/104187/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%81%db%8c%d9%86%d8%a7%d9%84%db%8c%d8%b3%d8%aa%d9%87%d8%a7%db%8c-%d8%ac%d9%88%d8%a7%db%8c%d8%b2-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%da%a9%d9%85%d8%af%db%8c-%d9%86/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-12",
+   "last_seen": "2026-10-12"
+  },
   {
    "id": "ff8a32a38871",
    "title": "آموزش صفر تا صد ادیت عکس",
@@ -1708,5 +1717,5 @@
    "last_seen": "2026-10-08"
   }
  ],
- "updated": "2026-10-11T18:02+00:00"
+ "updated": "2026-10-12T00:03+00:00"
 }
