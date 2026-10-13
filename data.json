@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 2
+   "count": 3
   },
   {
    "name": "کارنامه",
@@ -52,15 +52,14 @@
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
    "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='mftzf.com', port=443): Read timed out. (read timeout=25)",
-   "count": 0
+   "status": "ok",
+   "count": 11
   },
   {
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 27
+   "count": 29
   },
   {
    "name": "ایسنا",
@@ -76,6 +75,51 @@
    "url": "https://yphc.ir/news/104215/%d8%b4%da%a9%d9%88%d9%81%d8%a7%db%8c%db%8c-%d9%87%d8%b2%d8%a7%d8%b1%d8%a7%d9%86-%d9%84%d8%a7%d9%84%d9%87-%d8%af%d8%b1-%d8%ac%d8%b4%d9%86%d9%88%d8%a7%d8%b1%d9%87-%d8%aa%d8%b3%d9%84%d8%a7%d8%b1/",
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13"
+  },
+  {
+   "id": "ab191cec82c5",
+   "title": "«اودیسه» پرفروش‌ترین فیلم خارجی در کره شد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208603-%D8%A7%D9%88%D8%AF%DB%8C%D8%B3%D9%87-%D9%BE%D8%B1%D9%81%D8%B1%D9%88%D8%B4-%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%DB%8C%D9%84%D9%85-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D9%87-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13"
+  },
+  {
+   "id": "71e91abb027c",
+   "title": "«وزارت آب» به نویسندگی مهام میقانی و کارگردانی مصطفوی روی صحنه می‌رود.",
+   "url": "https://www.tiwall.com/news/vezarat.ab.iranshahr",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13"
+  },
+  {
+   "id": "6dfe34025772",
+   "title": "فراخوان هجدهمین جشنواره موسیقی نواحی منتشر شد",
+   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/208605-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%87%D8%AC%D8%AF%D9%87%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D9%86%D9%88%D8%A7%D8%AD%DB%8C-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13"
+  },
+  {
+   "id": "617fca6cd17f",
+   "title": "مازیار لرستانی پس از ۶ سال فیلم کمدی  می سازد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208598-%D9%85%D8%A7%D8%B2%DB%8C%D8%A7%D8%B1-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%B3%D8%A7%D9%84-%D9%81%DB%8C%D9%84%D9%85-%DA%A9%D9%85%D8%AF%DB%8C-%D9%85%DB%8C-%D8%B3%D8%A7%D8%B2%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-13"
+  },
+  {
+   "id": "5662ece9ac87",
+   "title": "معرفی داوران بخش «افق مقاومت» بیستمین جشنواره تئاتر مقاومت",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208600-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%AF%D8%A7%D9%88%D8%B1%D8%A7%D9%86-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%81%D9%82-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%A8%DB%8C%D8%B3%D8%AA%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
    "first_seen": "2026-10-13",
    "last_seen": "2026-10-13"
   },
@@ -1763,5 +1807,5 @@
    "last_seen": "2026-10-08"
   }
  ],
- "updated": "2026-10-13T06:06+00:00"
+ "updated": "2026-10-13T12:07+00:00"
 }
