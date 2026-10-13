@@ -35,7 +35,7 @@
    "name": "باشگاه عکاسان جوان",
    "url": "https://yphc.ir",
    "status": "ok",
-   "count": 25
+   "count": 23
   },
   {
    "name": "آکادمی دیدنگار",
@@ -52,8 +52,9 @@
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
    "url": "https://mftzf.com/departments/هنر-و-سینما/عکاسی-و-تصویر-برداری",
-   "status": "ok",
-   "count": 11
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='mftzf.com', port=443): Read timed out. (read timeout=25)",
+   "count": 0
   },
   {
    "name": "هنرآنلاین",
@@ -1762,5 +1763,5 @@
    "last_seen": "2026-10-08"
   }
  ],
- "updated": "2026-10-13T00:05+00:00"
+ "updated": "2026-10-13T06:06+00:00"
 }
