@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 34
+   "count": 37
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -70,9 +70,45 @@
  ],
  "items": [
   {
+   "id": "e997d714fd16",
+   "title": "تکنیک های کاربردی عکاسی بارداری",
+   "url": "https://academy.didnegar.com/pregnancy-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "c8af11b0e18a",
+   "title": "آموزش کامل ادیت عکس با فتوشاپ",
+   "url": "https://academy.didnegar.com/photo-edit-with-photoshop/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
    "id": "c65d7ecd5c2f",
    "title": "نکات جامع ادیت عکس با موبایل",
    "url": "https://academy.didnegar.com/edit-photo-with-mobile/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "bc1ccc1a3c76",
+   "title": "صفر تا صد آموزش عکاسی صنعتی",
+   "url": "https://academy.didnegar.com/industrial-photography-learning/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "aa9f70a42cfb",
+   "title": "نورسنجی در عکاسی تئاتر؛ رازهای شگفت انگیز",
+   "url": "https://academy.didnegar.com/lighting-theatre-photography/",
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
@@ -88,9 +124,45 @@
    "last_seen": "2026-10-15"
   },
   {
+   "id": "a05bd681c1c3",
+   "title": "فیلم آموزشی رتوش پرتره و بیوتی",
+   "url": "https://academy.didnegar.com/product/portrait-retouching-educational-video/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
    "id": "9c838715f51b",
    "title": "نکات مهم حرکت در عکاسی تئاتر",
    "url": "https://academy.didnegar.com/action-in-theatre-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "8994a1317086",
+   "title": "کاملترین آموزش نورپردازی در عکاسی پرتره",
+   "url": "https://academy.didnegar.com/lighting-in-portrait-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "883fb66770b4",
+   "title": "آشنایی با لنز در عکاسی دیجیتال",
+   "url": "https://academy.didnegar.com/lens-in-digital-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "5dba58dcb933",
+   "title": "عکاسی غذا از برندینگ تا عکاسی غذای اینستاگرام",
+   "url": "https://academy.didnegar.com/food-photography/",
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
@@ -127,6 +199,15 @@
    "id": "314176bbe747",
    "title": "نکات جامع برای آموزش عکاسی تبلیغاتی",
    "url": "https://academy.didnegar.com/advertising-photography-learning/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-15",
+   "last_seen": "2026-10-15"
+  },
+  {
+   "id": "2a5839e9ae00",
+   "title": "ترکیب بندی در عکاسی خیابانی؛ نکات جامع و پیشرفته",
+   "url": "https://academy.didnegar.com/composition-in-street-photography/",
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
@@ -1003,7 +1084,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-15"
   },
   {
    "id": "f47f5acdbdbd",
@@ -1111,7 +1192,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-15"
   },
   {
    "id": "d3ef929d42cc",
@@ -1237,7 +1318,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-15"
   },
   {
    "id": "b5f0fb571e1e",
@@ -1615,7 +1696,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-15"
   },
   {
    "id": "4d4cd247523d",
@@ -1867,7 +1948,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-15"
   },
   {
    "id": "104632505d1c",
@@ -1876,7 +1957,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-15"
   },
   {
    "id": "0d1d9d3412f8",
@@ -1924,5 +2005,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-15T00:09+00:00"
+ "updated": "2026-10-15T12:17+00:00"
 }
