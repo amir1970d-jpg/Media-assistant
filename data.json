@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 37
+   "count": 36
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 26
+   "count": 29
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,78 @@
   }
  ],
  "items": [
+  {
+   "id": "e02895cbec8c",
+   "title": "مجید مجیدی: مردم، قهرمان‌های واقعی فیلم‌های ما هستند",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208627-%D9%85%D8%AC%DB%8C%D8%AF-%D9%85%D8%AC%DB%8C%D8%AF%DB%8C-%D9%85%D8%B1%D8%AF%D9%85-%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D9%88%D8%A7%D9%82%D8%B9%DB%8C-%D9%81%DB%8C%D9%84%D9%85-%D9%87%D8%A7%DB%8C-%D9%85%D8%A7-%D9%87%D8%B3%D8%AA%D9%86%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "id": "bb7b817cf79b",
+   "title": "نکات جالب هوش مصنوعی در عکاسی مد ۲۰۲۴",
+   "url": "https://academy.didnegar.com/fashion-photography-using-artificial-intelligence/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "id": "ae56cdc68803",
+   "title": "نکات اساسی آموزش عکاسی خبری: ویژه مبتدیان",
+   "url": "https://academy.didnegar.com/photo-journalism/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "id": "801e2c8cd190",
+   "title": "تکنیک نورپردازی رامبراند در عکاسی پرتره",
+   "url": "https://academy.didnegar.com/rembrandts-lighting-technique-in-portrait-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "id": "5c920956ea6d",
+   "title": "نقش رنگ در عکاسی خیابانی",
+   "url": "https://academy.didnegar.com/color-in-street-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "id": "5149ea0f8b9c",
+   "title": "تکنیک‌ های جذاب برای عکاسی نوروز با موبایل",
+   "url": "https://academy.didnegar.com/noruwz-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "id": "257416c32bad",
+   "title": "گالری گردی در آخرین جمعه مهر ماه",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208628-%DA%AF%D8%A7%D9%84%D8%B1%DB%8C-%DA%AF%D8%B1%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D8%AC%D9%85%D8%B9%D9%87-%D9%85%D9%87%D8%B1-%D9%85%D8%A7%D9%87",
+   "source": "هنرآنلاین",
+   "kind": "exhibition",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  {
+   "id": "1c1cb5c9c906",
+   "title": "مستند «قحط‌الرجال» نقد شد؛ احیای یک حافظه رو به زوال",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208630-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D9%82%D8%AD%D8%B7-%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84-%D9%86%D9%82%D8%AF-%D8%B4%D8%AF-%D8%A7%D8%AD%DB%8C%D8%A7%DB%8C-%DB%8C%DA%A9-%D8%AD%D8%A7%D9%81%D8%B8%D9%87-%D8%B1%D9%88-%D8%A8%D9%87-%D8%B2%D9%88%D8%A7%D9%84",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
   {
    "id": "e997d714fd16",
    "title": "تکنیک های کاربردی عکاسی بارداری",
@@ -1309,7 +1381,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-16"
   },
   {
    "id": "bbcd5c033af2",
@@ -1786,7 +1858,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-16"
   },
   {
    "id": "3ecdea040a7e",
@@ -1912,7 +1984,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-16"
   },
   {
    "id": "224edcc0ec30",
@@ -1930,7 +2002,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-16"
   },
   {
    "id": "1b717cfcb296",
@@ -2014,5 +2086,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-15T18:16+00:00"
+ "updated": "2026-10-16T12:16+00:00"
 }
