@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 4
+   "count": 3
   },
   {
    "name": "کارنامه",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 29
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,15 @@
   }
  ],
  "items": [
+  {
+   "id": "60a3f4c8dccc",
+   "title": "عارف خطاب به مجید مجیدی: فراتر از یک فیلمساز، سفیر عزت ملی شدید",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208634-%D8%B9%D8%A7%D8%B1%D9%81-%D8%AE%D8%B7%D8%A7%D8%A8-%D8%A8%D9%87-%D9%85%D8%AC%DB%8C%D8%AF-%D9%85%D8%AC%DB%8C%D8%AF%DB%8C-%D9%81%D8%B1%D8%A7%D8%AA%D8%B1-%D8%A7%D8%B2-%DB%8C%DA%A9-%D9%81%DB%8C%D9%84%D9%85%D8%B3%D8%A7%D8%B2-%D8%B3%D9%81%DB%8C%D8%B1-%D8%B9%D8%B2%D8%AA-%D9%85%D9%84%DB%8C-%D8%B4%D8%AF%DB%8C%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-17",
+   "last_seen": "2026-10-17"
+  },
   {
    "id": "e02895cbec8c",
    "title": "مجید مجیدی: مردم، قهرمان‌های واقعی فیلم‌های ما هستند",
@@ -850,7 +859,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-10",
-   "last_seen": "2026-10-10"
+   "last_seen": "2026-10-17"
   },
   {
    "id": "39ae45ba9fac",
@@ -2086,5 +2095,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-16T12:16+00:00"
+ "updated": "2026-10-17T12:09+00:00"
 }
