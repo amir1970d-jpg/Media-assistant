@@ -22,8 +22,9 @@
   {
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
-   "status": "ok",
-   "count": 6
+   "status": "error",
+   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+   "count": 0
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -517,7 +518,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "c9c333f67519",
@@ -544,7 +545,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "a06747a11e24",
@@ -607,7 +608,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "4eb3dcc28e8e",
@@ -634,7 +635,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "122a374f174f",
@@ -2113,5 +2114,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-17T18:07+00:00"
+ "updated": "2026-10-18T00:06+00:00"
 }
