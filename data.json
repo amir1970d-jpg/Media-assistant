@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 3
+   "count": 9
   },
   {
    "name": "کارنامه",
@@ -69,6 +69,96 @@
   }
  ],
  "items": [
+  {
+   "id": "fd5b51e22d7c",
+   "title": "استقبال رئیس سازمان سینمایی از مجید مجیدی",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208646-%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84-%D8%B1%D8%A6%DB%8C%D8%B3-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D9%85%D8%AC%DB%8C%D8%AF-%D9%85%D8%AC%DB%8C%D8%AF%DB%8C",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "fa4ba6218a52",
+   "title": "فیلم‌تئاتر مرگ در زمستان ۹ ★ ۵٫۰ اجرای عمارت نوفل لوشاتو ن و ک: حامد شیخی ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/marg.dar.zemestan2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "f7107d7c5e9c",
+   "title": "روایت علیرضا زرین‌دست از ریشه‌های نورپردازی در سینما",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208642-%D8%B1%D9%88%D8%A7%DB%8C%D8%AA-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B2%D8%B1%DB%8C%D9%86-%D8%AF%D8%B3%D8%AA-%D8%A7%D8%B2-%D8%B1%DB%8C%D8%B4%D9%87-%D9%87%D8%A7%DB%8C-%D9%86%D9%88%D8%B1%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%DB%8C-%D8%AF%D8%B1-%D8%B3%DB%8C%D9%86%D9%85%D8%A7",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "f1edb63104d9",
+   "title": "فیلم‌تئاتر سیاه‌وش ۵ ★ ۵٫۰ سی‌ٱمین نمایش گروه هنری تندیس ن و ک: حامد شیخی ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/siyah5",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "c5c2213e24cb",
+   "title": "فیلم‌تئاتر کویوآکان در آگوست ۱ ★ ۰٫۰ یک تراژی کمدی در ۱۴ گاه ن و ک: مسعود زارعی ۱۵۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/august",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "b90b8dc6afe3",
+   "title": "نمایش محالات ممکن بازگشت کالیگولا... ن و ک: امیر نعمتی تماشاخانه هیلاج - کارگاه نمایش ۰۳ تا ۱۹ آبان ۱۹:۰۰ ۳۸۰,۰۰۰ تومان خرید بلیت",
+   "url": "https://www.tiwall.com/p/momken2",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "87a4a26aadd7",
+   "title": "فیلم‌تئاتر پاییز هفت عصر ۲ ★ ۰٫۰ ک: کسری ‌محمدی / ن: مجید حاتمی ۱۲۰,۰۰۰ تومان خرید",
+   "url": "https://www.tiwall.com/p/paeiz.haft2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "24cb022a9d4e",
+   "title": "بیست و سومین جشنواره تئاتر تجربه",
+   "url": "https://www.tiwall.com/showcase?filters=s:tajrobetheater23",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "0f128b0e043c",
+   "title": "بیست و یکمین جشنواره نمایش عروسکی تهران مبارک",
+   "url": "https://www.tiwall.com/showcase?filters=s:mobarakfestival21",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "0be46b3a52c4",
+   "title": "پردیس ملت خانه جشنواره فیلم مقاومت شد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208641-%D9%BE%D8%B1%D8%AF%DB%8C%D8%B3-%D9%85%D9%84%D8%AA-%D8%AE%D8%A7%D9%86%D9%87-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
   {
    "id": "b4e6d8cc59ab",
    "title": "استقبال ۵۵۸ هزار مخاطب از فیلم‌های روی پرده در هفته گذشته",
@@ -1039,7 +1129,7 @@
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "46437544b3b8",
@@ -1156,7 +1246,7 @@
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "fba0b8ba504e",
@@ -2113,5 +2203,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-18T06:12+00:00"
+ "updated": "2026-10-18T12:09+00:00"
 }
