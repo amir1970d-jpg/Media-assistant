@@ -22,9 +22,8 @@
   {
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
-   "status": "error",
-   "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-   "count": 0
+   "status": "ok",
+   "count": 6
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -2114,5 +2113,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-18T00:06+00:00"
+ "updated": "2026-10-18T06:12+00:00"
 }
