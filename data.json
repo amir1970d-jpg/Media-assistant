@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 9
+   "count": 11
   },
   {
    "name": "کارنامه",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 28
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -102,6 +102,24 @@
    "url": "https://www.tiwall.com/p/siyah5",
    "source": "تیوال",
    "kind": "other",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "cb0879677e0d",
+   "title": "کارگاه تولد هیولا کوچولو کارگاه یک روزه ن و ک: مریم اسکندری آموزشگاه هنرهای نمایشی مکث ۰۷ خرداد تا ۰۴ آبان ۱۸:۳۰ ۶۰۰,۰۰۰ تومان ثبت نام",
+   "url": "https://www.tiwall.com/p/little.monster",
+   "source": "تیوال",
+   "kind": "workshop",
+   "first_seen": "2026-10-18",
+   "last_seen": "2026-10-18"
+  },
+  {
+   "id": "c73dfc11d0e5",
+   "title": "کارگاه نمایش خلاق بازیگر کوچولو آموزشگاه هنری دادار ۰۸ آبان تا ۰۸ دی ۱۲:۰۰ ۶,۰۰۰,۰۰۰ تومان ثبت نام",
+   "url": "https://www.tiwall.com/p/namayeshkhalagh25",
+   "source": "تیوال",
+   "kind": "workshop",
    "first_seen": "2026-10-18",
    "last_seen": "2026-10-18"
   },
@@ -1102,7 +1120,7 @@
    "source": "تیوال",
    "kind": "other",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "6f4cb9589725",
@@ -1237,7 +1255,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-10-09",
-   "last_seen": "2026-10-09"
+   "last_seen": "2026-10-18"
   },
   {
    "id": "0f268e2176c3",
@@ -2203,5 +2221,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-18T12:09+00:00"
+ "updated": "2026-10-18T18:08+00:00"
 }
