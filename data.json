@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 10
+   "count": 1
   },
   {
    "name": "کارنامه",
@@ -120,6 +120,15 @@
    "url": "https://www.tiwall.com/p/begid.sib4",
    "source": "تیوال",
    "kind": "other",
+   "first_seen": "2026-10-20",
+   "last_seen": "2026-10-20"
+  },
+  {
+   "id": "49e7f643f504",
+   "title": "بازگشت «دیوانه خانه زری بوره» بدون هیچ تغییری در کارگاه تئاتر",
+   "url": "https://www.tiwall.com/news/madhouse.bazgasht",
+   "source": "تیوال",
+   "kind": "workshop",
    "first_seen": "2026-10-20",
    "last_seen": "2026-10-20"
   },
@@ -2419,5 +2428,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-20T12:17+00:00"
+ "updated": "2026-10-20T18:17+00:00"
 }
