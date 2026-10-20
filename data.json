@@ -40,8 +40,9 @@
   {
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
-   "status": "ok",
-   "count": 38
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='academy.didnegar.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutEr",
+   "count": 0
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -553,7 +554,7 @@
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
    "first_seen": "2026-10-13",
-   "last_seen": "2026-10-13"
+   "last_seen": "2026-10-20"
   },
   {
    "id": "ab191cec82c5",
@@ -2311,5 +2312,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-19T12:20+00:00"
+ "updated": "2026-10-20T00:13+00:00"
 }
