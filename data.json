@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 1
+   "count": 9
   },
   {
    "name": "کارنامه",
@@ -59,22 +59,50 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 27
+   "count": 29
   },
   {
    "name": "ایسنا",
    "url": "https://www.isna.ir",
-   "status": "ok",
+   "status": "error",
+   "error": "HTTPSConnectionPool(host='www.isna.ir', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTP",
    "count": 0
   }
  ],
  "items": [
+  {
+   "id": "fe45df4fd2fa",
+   "title": "مراسم اختتامیه بیست و یکمین جشنواره نمایش عروسکی تهران مبارک تئاترشهر - سالن اصلی پنجشنبه ۳۰ مهر ۱۸:۰۰",
+   "url": "https://www.tiwall.com/p/mobarakfestival21.ending",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "d7d680b93227",
+   "title": "شروع ضعیف فیلم نعمت‌الله در گیشه؛ «کافه سلطان» اکران شد",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208676-%D8%B4%D8%B1%D9%88%D8%B9-%D8%B6%D8%B9%DB%8C%D9%81-%D9%81%DB%8C%D9%84%D9%85-%D9%86%D8%B9%D9%85%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%AF%D8%B1-%DA%AF%DB%8C%D8%B4%D9%87-%DA%A9%D8%A7%D9%81%D9%87-%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A7%DA%A9%D8%B1%D8%A7%D9%86-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
   {
    "id": "c564e09d63d2",
    "title": "چرا عکاسی می‌کنیم؟ عکس چه تأثیری بر زندگی انسان دارد؟",
    "url": "https://yphc.ir/news/104253/%da%86%d8%b1%d8%a7-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%d9%85%db%8c%da%a9%d9%86%db%8c%d9%85%d8%9f-%d8%b9%da%a9%d8%b3-%da%86%d9%87-%d8%aa%d8%a3%d8%ab%db%8c%d8%b1%db%8c-%d8%a8%d8%b1-%d8%b2%d9%86/",
    "source": "باشگاه عکاسان جوان",
    "kind": "workshop",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "9e4036118b79",
+   "title": "دبیر بخش «سرزمین من» جشنواره تجسمی فجر معرفی شد",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208680-%D8%AF%D8%A8%DB%8C%D8%B1-%D8%A8%D8%AE%D8%B4-%D8%B3%D8%B1%D8%B2%D9%85%DB%8C%D9%86-%D9%85%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-%D9%81%D8%AC%D8%B1-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
   },
@@ -2518,5 +2546,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-21T12:19+00:00"
+ "updated": "2026-10-21T18:17+00:00"
 }
