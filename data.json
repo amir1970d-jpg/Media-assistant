@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 8
+   "count": 7
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 38
+   "count": 33
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 25
+   "count": 27
   },
   {
    "name": "ایسنا",
@@ -88,9 +88,72 @@
    "last_seen": "2026-10-21"
   },
   {
+   "id": "89ec57a9a1fd",
+   "title": "آموزش گام به گام ژست در عکاسی نوزاد",
+   "url": "https://academy.didnegar.com/pose-in-baby-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "8579007a2b37",
+   "title": "فراخوان سی و سومین جشنواره هنرهای تجسمی جوانان ایران تمدید شد",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-4/208672-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D8%B3%DB%8C-%D8%B3%D9%88%D9%85%DB%8C%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%87%D9%86%D8%B1%D9%87%D8%A7%DB%8C-%D8%AA%D8%AC%D8%B3%D9%85%DB%8C-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "756d092d6906",
+   "title": "کتاب \"چهره‌نگار\" در حوزه عکاسی منتشر شد",
+   "url": "https://honaronline.ir/بخش-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA-103/208674-%DA%A9%D8%AA%D8%A7%D8%A8-%DA%86%D9%87%D8%B1%D9%87-%D9%86%DA%AF%D8%A7%D8%B1-%D8%AF%D8%B1-%D8%AD%D9%88%D8%B2%D9%87-%D8%B9%DA%A9%D8%A7%D8%B3%DB%8C-%D9%85%D9%86%D8%AA%D8%B4%D8%B1-%D8%B4%D8%AF",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
    "id": "5d90398d30e7",
    "title": "20 نکته آموزش عکاسی سینمایی برای مبتدیان",
    "url": "https://academy.didnegar.com/cinematic-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "5266fd040e51",
+   "title": "آغاز سری دوم «مستندهایی درباره تئاتر ایران» در خانه‌ هنرمندان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208673-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B3%D8%B1%DB%8C-%D8%AF%D9%88%D9%85-%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D9%87%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AE%D8%A7%D9%86%D9%87-%D9%87%D9%86%D8%B1%D9%85%D9%86%D8%AF%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "3897f4f18b03",
+   "title": "مستندی که «خاطره» است؛ ماجرای مراقبت نوجوانان از شهرشان",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208670-%D9%85%D8%B3%D8%AA%D9%86%D8%AF%DB%8C-%DA%A9%D9%87-%D8%AE%D8%A7%D8%B7%D8%B1%D9%87-%D8%A7%D8%B3%D8%AA-%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%AA-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%D8%A7%D8%B2-%D8%B4%D9%87%D8%B1%D8%B4%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "35760f7a8f19",
+   "title": "عکاسی از شیشه: نکات حرفه ای برای تصاویر شگفت انگیز",
+   "url": "https://academy.didnegar.com/photography-through-glass/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "02caeaea5fc8",
+   "title": "عکاسی خیابانی؛ آنچه هست و آنچه نیست",
+   "url": "https://academy.didnegar.com/what-is-street-photography-and-what-is-not/",
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
@@ -2455,5 +2518,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-21T00:11+00:00"
+ "updated": "2026-10-21T12:19+00:00"
 }
