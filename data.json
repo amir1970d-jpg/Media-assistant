@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 36
+   "count": 38
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -69,6 +69,33 @@
   }
  ],
  "items": [
+  {
+   "id": "c564e09d63d2",
+   "title": "چرا عکاسی می‌کنیم؟ عکس چه تأثیری بر زندگی انسان دارد؟",
+   "url": "https://yphc.ir/news/104253/%da%86%d8%b1%d8%a7-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-%d9%85%db%8c%da%a9%d9%86%db%8c%d9%85%d8%9f-%d8%b9%da%a9%d8%b3-%da%86%d9%87-%d8%aa%d8%a3%d8%ab%db%8c%d8%b1%db%8c-%d8%a8%d8%b1-%d8%b2%d9%86/",
+   "source": "باشگاه عکاسان جوان",
+   "kind": "workshop",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "92882029866d",
+   "title": "عکاسی با موبایل",
+   "url": "https://academy.didnegar.com/product/mobile-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  {
+   "id": "5d90398d30e7",
+   "title": "20 نکته آموزش عکاسی سینمایی برای مبتدیان",
+   "url": "https://academy.didnegar.com/cinematic-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
   {
    "id": "fdb61c89afa0",
    "title": "آموزش عکاسی در شب با دوربین عادی و لنزهای کیت",
@@ -877,7 +904,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-21"
   },
   {
    "id": "8aa0b8940500",
@@ -1876,7 +1903,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08"
+   "last_seen": "2026-10-21"
   },
   {
    "id": "97eecff2bcd4",
@@ -2428,5 +2455,5 @@
    "last_seen": "2026-10-15"
   }
  ],
- "updated": "2026-10-20T18:17+00:00"
+ "updated": "2026-10-21T00:11+00:00"
 }
