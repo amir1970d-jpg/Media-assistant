@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 9
+   "count": 5
   },
   {
    "name": "کارنامه",
@@ -46,9 +46,8 @@
   {
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='mftniavaran.com', port=443): Read timed out. (read timeout=25)",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -2591,5 +2590,5 @@
    "last_seen": "2026-10-22"
   }
  ],
- "updated": "2026-10-23T00:12+00:00"
+ "updated": "2026-10-23T06:19+00:00"
 }
