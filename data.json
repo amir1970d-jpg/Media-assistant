@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 6
+   "count": 3
   },
   {
    "name": "کارنامه",
@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 7
+   "count": 5
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 36
+   "count": 37
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 26
+   "count": 25
   },
   {
    "name": "ایسنا",
@@ -75,6 +75,60 @@
    "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208691-%D9%81%DB%8C%D9%84%D9%85%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D8%AE%D9%85%D8%B5%D9%87-%D8%AA%D8%A7-%DA%98%D8%A7%D9%86%D9%88%DB%8C%D9%87-%D8%A8%D9%87-%D8%AA%D8%B9%D9%88%DB%8C%D9%82-%D8%A7%D9%81%D8%AA%D8%A7%D8%AF",
    "source": "هنرآنلاین",
    "kind": "news",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "id": "c6649680ab49",
+   "title": "نمایش دو فیلم مستند دربارهٔ فرهاد قصیری در سینماتک موزه هنرهای معاصر تهران",
+   "url": "https://tmoca.com/events/cinematheque/%d9%86%d9%85%d8%a7%db%8c%d8%b4-%d8%af%d9%88-%d9%81%db%8c%d9%84%d9%85-%d9%85%d8%b3%d8%aa%d9%86%d8%af-%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%d9%94-%d9%81%d8%b1%d9%87%d8%a7%d8%af-%d9%82%d8%b5%db%8c%d8%b1/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "id": "bd2cc3d6de24",
+   "title": "گزارش تصویری تیوال از اختتامیه بیست‌ویکمین جشنواره بین‌المللی نمایش عروسکی تهران‌مبارک (سری دوم) / عکاس: کیارش مسیبی",
+   "url": "https://www.tiwall.com/news/mobarak.tehran21.2",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "id": "a40f69328d0f",
+   "title": "گزارش تصویری تیوال از اختتامیه بیست‌ویکمین جشنواره بین‌المللی نمایش عروسکی تهران‌مبارک (سری نخست) / عکاس: کیارش مسیبی",
+   "url": "https://www.tiwall.com/news/mobarak.tehran21",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "id": "610fbe5a7cbd",
+   "title": "ستاره موسیقی به فیلم جدید اسکورسیزی پیوست",
+   "url": "https://honaronline.ir/بخش-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-5/208694-%D8%B3%D8%AA%D8%A7%D8%B1%D9%87-%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C-%D8%A8%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%B3%DA%A9%D9%88%D8%B1%D8%B3%DB%8C%D8%B2%DB%8C-%D9%BE%DB%8C%D9%88%D8%B3%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "id": "4c1506d6baff",
+   "title": "گزارش تصویری تیوال از اختتامیه بیست‌ویکمین جشنواره بین‌المللی نمایش عروسکی تهران‌مبارک (سری سوم) / عکاس: کیارش مسیبی",
+   "url": "https://www.tiwall.com/news/mobarak.tehran21.3",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24"
+  },
+  {
+   "id": "06e4c7315dc7",
+   "title": "۱۵ ترند عکاسی دیجیتال ۲۰۲۴ که باید بدانید",
+   "url": "https://academy.didnegar.com/digital-photography-trends-in-2024/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
    "first_seen": "2026-10-24",
    "last_seen": "2026-10-24"
   },
@@ -616,7 +670,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16"
+   "last_seen": "2026-10-24"
   },
   {
    "id": "801e2c8cd190",
@@ -760,7 +814,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-24"
   },
   {
    "id": "5dba58dcb933",
@@ -1066,7 +1120,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-11"
+   "last_seen": "2026-10-24"
   },
   {
    "id": "786cfbdf5187",
@@ -1687,7 +1741,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-24"
   },
   {
    "id": "f47f5acdbdbd",
@@ -2551,7 +2605,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-24"
   },
   {
    "id": "104632505d1c",
@@ -2560,7 +2614,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-24"
   },
   {
    "id": "0d1d9d3412f8",
@@ -2608,5 +2662,5 @@
    "last_seen": "2026-10-22"
   }
  ],
- "updated": "2026-10-24T00:12+00:00"
+ "updated": "2026-10-24T12:13+00:00"
 }
