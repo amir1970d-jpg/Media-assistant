@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 5
+   "count": 4
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -46,9 +46,8 @@
   {
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='mftniavaran.com', port=443): Read timed out. (read timeout=25)",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -2699,5 +2698,5 @@
    "last_seen": "2026-10-22"
   }
  ],
- "updated": "2026-10-25T12:13+00:00"
+ "updated": "2026-10-25T18:11+00:00"
 }
