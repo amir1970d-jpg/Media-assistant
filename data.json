@@ -41,14 +41,13 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 37
+   "count": 36
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
    "url": "https://mftniavaran.com/department/culture-art/",
-   "status": "error",
-   "error": "HTTPSConnectionPool(host='mftniavaran.com', port=443): Read timed out. (read timeout=25)",
-   "count": 0
+   "status": "ok",
+   "count": 1
   },
   {
    "name": "مجتمع فنی تهران - زعفرانیه",
@@ -98,6 +97,15 @@
    "last_seen": "2026-10-26"
   },
   {
+   "id": "9162c3b33d79",
+   "title": "ژست خلاق در عکاسی خیابانی",
+   "url": "https://academy.didnegar.com/creative-pose-in-street-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
+  },
+  {
    "id": "8832c8c8cb35",
    "title": "محسن راستانی، عکاس برجسته مستند ایران درگذشت",
    "url": "https://yphc.ir/news/104277/%d9%85%d8%ad%d8%b3%d9%86-%d8%b1%d8%a7%d8%b3%d8%aa%d8%a7%d9%86%db%8c%d8%8c-%d8%b9%da%a9%d8%a7%d8%b3-%d8%a8%d8%b1%d8%ac%d8%b3%d8%aa%d9%87-%d9%85%d8%b3%d8%aa%d9%86%d8%af-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/",
@@ -121,6 +129,15 @@
    "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208712-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%A7%D8%B2-%D8%B5%D8%A7%D8%AD%D8%A8%D8%A7%D9%86-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D9%81%DB%8C%D9%84%D9%85-%D9%81%DB%8C%D9%84%D9%85-%D8%A7%D9%88%D9%84%DB%8C-%D8%A8%D9%88%D8%AF%D9%86%D8%AF",
    "source": "هنرآنلاین",
    "kind": "news",
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
+  },
+  {
+   "id": "1da83012a682",
+   "title": "کسب درآمد از عکاسی تبلیغاتی: روش‌ها نوین",
+   "url": "https://academy.didnegar.com/make-money-advertising-photography/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-26"
   },
@@ -563,7 +580,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19"
+   "last_seen": "2026-10-26"
   },
   {
    "id": "850154853176",
@@ -860,7 +877,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-26"
   },
   {
    "id": "a315b03db217",
@@ -2048,7 +2065,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-16"
+   "last_seen": "2026-10-26"
   },
   {
    "id": "bbcd5c033af2",
@@ -2138,7 +2155,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-26"
   },
   {
    "id": "a56351e96a4f",
@@ -2363,7 +2380,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-26"
   },
   {
    "id": "67d6f8c8175e",
@@ -2753,5 +2770,5 @@
    "last_seen": "2026-10-22"
   }
  ],
- "updated": "2026-10-26T14:13+00:00"
+ "updated": "2026-10-26T18:24+00:00"
 }
