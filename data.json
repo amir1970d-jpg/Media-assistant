@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 34
+   "count": 35
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -97,11 +97,29 @@
    "last_seen": "2026-10-28"
   },
   {
+   "id": "9f0498913acd",
+   "title": "انتصاب سه مدیر جشنواره تئاتر کودک و نوجوان همدان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208749-%D8%A7%D9%86%D8%AA%D8%B5%D8%A7%D8%A8-%D8%B3%D9%87-%D9%85%D8%AF%DB%8C%D8%B1-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86-%D9%87%D9%85%D8%AF%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
    "id": "8149f57036d4",
    "title": "۲۰ نکته عکاسی دیجیتال که درسال ۲۰۲۴ باید بدانید",
    "url": "https://academy.didnegar.com/20-point-about-digital-photography-in-2024/",
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
+  {
+   "id": "09dc1d756f0e",
+   "title": "تمدید مهلت ارسال آثار به بخش «دیگرگونه‌های اجرایی» جشنواره تئاتر فجر",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208747-%D8%AA%D9%85%D8%AF%DB%8C%D8%AF-%D9%85%D9%87%D9%84%D8%AA-%D8%A7%D8%B1%D8%B3%D8%A7%D9%84-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A8%D9%87-%D8%A8%D8%AE%D8%B4-%D8%AF%DB%8C%DA%AF%D8%B1%DA%AF%D9%88%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D9%81%D8%AC%D8%B1",
+   "source": "هنرآنلاین",
+   "kind": "news",
    "first_seen": "2026-10-28",
    "last_seen": "2026-10-28"
   },
@@ -472,7 +490,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-28"
   },
   {
    "id": "fdb61c89afa0",
@@ -1282,7 +1300,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-28"
   },
   {
    "id": "8aa0b8940500",
@@ -2833,5 +2851,5 @@
    "last_seen": "2026-10-22"
   }
  ],
- "updated": "2026-10-28T12:26+00:00"
+ "updated": "2026-10-28T18:26+00:00"
 }
