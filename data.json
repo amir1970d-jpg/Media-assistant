@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 36
+   "count": 37
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -69,6 +69,15 @@
   }
  ],
  "items": [
+  {
+   "id": "8149f57036d4",
+   "title": "۲۰ نکته عکاسی دیجیتال که درسال ۲۰۲۴ باید بدانید",
+   "url": "https://academy.didnegar.com/20-point-about-digital-photography-in-2024/",
+   "source": "آکادمی دیدنگار",
+   "kind": "workshop",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28"
+  },
   {
    "id": "fc99aa163d7c",
    "title": "رقابت بهترین فیلم اسکار ۲۰۲۷: «تل‌ماسه» می‌تواند معادلات را تغییر دهد؟",
@@ -427,7 +436,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-28"
   },
   {
    "id": "02caeaea5fc8",
@@ -445,7 +454,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-10-28"
   },
   {
    "id": "aea0ec4b9791",
@@ -1003,7 +1012,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-10-28"
   },
   {
    "id": "f91794cbf0ef",
@@ -2797,5 +2806,5 @@
    "last_seen": "2026-10-22"
   }
  ],
- "updated": "2026-10-27T18:25+00:00"
+ "updated": "2026-10-28T00:19+00:00"
 }
