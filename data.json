@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 7
+   "count": 1
   },
   {
    "name": "کارنامه",
@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 2
+   "count": 3
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 36
+   "count": 35
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -59,7 +59,7 @@
    "name": "هنرآنلاین",
    "url": "https://honaronline.ir",
    "status": "ok",
-   "count": 28
+   "count": 26
   },
   {
    "name": "ایسنا",
@@ -69,6 +69,51 @@
   }
  ],
  "items": [
+  {
+   "id": "f66f37e01e54",
+   "title": "نمایشگاه «جست‌وجوی ایران»",
+   "url": "https://tmoca.com/exhibitions/in-search-of-iran/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "id": "abb9917a10be",
+   "title": "مستندهای «میراث آب و آینه» و «عکاس کشتی نوح» در راه جشنواره «سینماحقیقت»",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208759-%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D8%B1%D8%A7%D8%AB-%D8%A2%D8%A8-%D8%A2%DB%8C%D9%86%D9%87-%D8%B9%DA%A9%D8%A7%D8%B3-%DA%A9%D8%B4%D8%AA%DB%8C-%D9%86%D9%88%D8%AD-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D8%AD%D9%82%DB%8C%D9%82%D8%AA",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "id": "88829842e319",
+   "title": "محسن حسن‌زاده دبیر جشنواره تئاتر «دارا رُخ» شد",
+   "url": "https://www.tiwall.com/news/dararokh.fest",
+   "source": "تیوال",
+   "kind": "other",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "id": "3fc7d1739c71",
+   "title": "برندگان جوایز آسیا پاسیفیک معرفی شدند؛ دست خالی فیلمسازان ایرانی",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208767-%D8%A8%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86-%D8%AC%D9%88%D8%A7%DB%8C%D8%B2-%D8%A2%D8%B3%DB%8C%D8%A7-%D9%BE%D8%A7%D8%B3%DB%8C%D9%81%DB%8C%DA%A9-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D8%B4%D8%AF%D9%86%D8%AF-%D8%AF%D8%B3%D8%AA-%D8%AE%D8%A7%D9%84%DB%8C-%D9%81%DB%8C%D9%84%D9%85%D8%B3%D8%A7%D8%B2%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  {
+   "id": "37834d763d23",
+   "title": "فروش ۷۰ میلیاردی سینمای ایران در هفته سی‌ودوم سال",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208760-%D9%81%D8%B1%D9%88%D8%B4-%D9%85%DB%8C%D9%84%DB%8C%D8%A7%D8%B1%D8%AF%DB%8C-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA%D9%87-%D8%B3%DB%8C-%D9%88%D8%AF%D9%88%D9%85-%D8%B3%D8%A7%D9%84",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
   {
    "id": "f4cc34b4a245",
    "title": "همراه با فیلم‌های آخر هفته تلویزیون؛ از «جی اف کی» تا «یه حبه قند»",
@@ -301,7 +346,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "bd2cc3d6de24",
@@ -346,7 +391,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-24",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "2eacb3ee7884",
@@ -715,7 +760,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "2f4e1e15b37e",
@@ -877,7 +922,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "ae56cdc68803",
@@ -1003,7 +1048,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "9c838715f51b",
@@ -2326,7 +2371,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "97eecff2bcd4",
@@ -2677,7 +2722,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "3a51cde16a5e",
@@ -2794,7 +2839,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-23"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "1b717cfcb296",
@@ -2803,7 +2848,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-10-31"
   },
   {
    "id": "1b1ddf3a0e3a",
@@ -2878,5 +2923,5 @@
    "last_seen": "2026-10-29"
   }
  ],
- "updated": "2026-10-29T18:28+00:00"
+ "updated": "2026-10-31T12:23+00:00"
 }
