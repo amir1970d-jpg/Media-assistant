@@ -4,7 +4,7 @@
    "name": "تیوال",
    "url": "https://www.tiwall.com",
    "status": "ok",
-   "count": 1
+   "count": 6
   },
   {
    "name": "کارنامه",
@@ -23,7 +23,7 @@
    "name": "موزه هنرهای معاصر تهران",
    "url": "https://tmoca.com",
    "status": "ok",
-   "count": 3
+   "count": 9
   },
   {
    "name": "مدرسه فیلمسازی مستند دانشگاه تهران",
@@ -41,7 +41,7 @@
    "name": "آکادمی دیدنگار",
    "url": "https://academy.didnegar.com",
    "status": "ok",
-   "count": 35
+   "count": 38
   },
   {
    "name": "مجتمع فنی تهران - نیاوران",
@@ -69,6 +69,51 @@
   }
  ],
  "items": [
+  {
+   "id": "9b28f8363643",
+   "title": "۵ فیلم پروانه نمایش گرفتند؛ عموهای فیتیله‌ای در راه سینماها",
+   "url": "https://honaronline.ir/بخش-%D8%B3%DB%8C%D9%86%D9%85%D8%A7-6/208777-%D9%81%DB%8C%D9%84%D9%85-%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%DA%AF%D8%B1%D9%81%D8%AA%D9%86%D8%AF-%D8%B9%D9%85%D9%88%D9%87%D8%A7%DB%8C-%D9%81%DB%8C%D8%AA%DB%8C%D9%84%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%A7%D9%87-%D8%B3%DB%8C%D9%86%D9%85%D8%A7%D9%87%D8%A7",
+   "source": "هنرآنلاین",
+   "kind": "news",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "70b565e4230e",
+   "title": "انتشار فراخوان نخستین دوره «بخش پژوهشی» جشنواره تئاتر کودک و نوجوان",
+   "url": "https://honaronline.ir/بخش-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-108/208775-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%81%D8%B1%D8%A7%D8%AE%D9%88%D8%A7%D9%86-%D9%86%D8%AE%D8%B3%D8%AA%DB%8C%D9%86-%D8%AF%D9%88%D8%B1%D9%87-%D8%A8%D8%AE%D8%B4-%D9%BE%DA%98%D9%88%D9%87%D8%B4%DB%8C-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%DA%A9%D9%88%D8%AF%DA%A9-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86",
+   "source": "هنرآنلاین",
+   "kind": "workshop",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "64d9c5ea4ad7",
+   "title": "گزارش تصویری «کودک، موزه، عکاسی»",
+   "url": "https://tmoca.com/%d8%af%d8%b3%d8%aa%d9%87%d8%a8%d9%86%d8%af%db%8c-%d9%86%d8%b4%d8%af%d9%87/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%aa%d8%b5%d9%88%db%8c%d8%b1%db%8c-%da%a9%d9%88%d8%af%da%a9%d8%8c-%d9%85%d9%88%d8%b2%d9%87%d8%8c-%d8%b9%da%a9%d8%a7%d8%b3%db%8c/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "31fdb941fca5",
+   "title": "عنوان «کودک، موزه، عکاسی»",
+   "url": "https://tmoca.com/photo-report/%d8%b9%d9%86%d9%88%d8%a7%d9%86-%da%a9%d9%88%d8%af%da%a9%d8%8c-%d9%85%d9%88%d8%b2%d9%87%d8%8c-%d8%b9%da%a9%d8%a7%d8%b3%db%8c-2/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
+  {
+   "id": "278fbd75c4db",
+   "title": "بازدید و بازی در نمایشگاه «این صورت باقی»",
+   "url": "https://tmoca.com/news/%d8%a8%d8%a7%d8%b2%d8%af%d9%8a%d8%af-%d9%88-%d8%a8%d8%a7%d8%b2%d9%8a-%d8%af%d8%b1-%d9%86%d9%85%d8%a7%d9%8a%d8%b4%da%af%d8%a7%d9%87-%d8%a7%d9%8a%d9%86-%d8%b5%d9%88%d8%b1%d8%aa-%d8%a8%d8%a7%d9%82/",
+   "source": "موزه هنرهای معاصر تهران",
+   "kind": "exhibition",
+   "first_seen": "2026-11-01",
+   "last_seen": "2026-11-01"
+  },
   {
    "id": "f66f37e01e54",
    "title": "نمایشگاه «جست‌وجوی ایران»",
@@ -427,7 +472,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-22",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "03537fb2d480",
@@ -580,7 +625,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "ad1bb45be490",
@@ -634,7 +679,7 @@
    "source": "تیوال",
    "kind": "workshop",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "2ad4ae59eb43",
@@ -643,7 +688,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-20",
-   "last_seen": "2026-10-20"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "14272690425a",
@@ -706,7 +751,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-19",
-   "last_seen": "2026-10-19"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "c08699a1d9ed",
@@ -931,7 +976,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "801e2c8cd190",
@@ -949,7 +994,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-23"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "5149ea0f8b9c",
@@ -1057,7 +1102,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-15",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "8994a1317086",
@@ -1426,7 +1471,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-11",
-   "last_seen": "2026-10-22"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "413586f97a57",
@@ -2002,7 +2047,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "f47f5acdbdbd",
@@ -2164,7 +2209,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "c8d45bd88a9a",
@@ -2596,7 +2641,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "52e5c10220a8",
@@ -2704,7 +2749,7 @@
    "source": "موزه هنرهای معاصر تهران",
    "kind": "exhibition",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-15"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "3e7982f2d33c",
@@ -2875,7 +2920,7 @@
    "source": "آکادمی دیدنگار",
    "kind": "workshop",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-24"
+   "last_seen": "2026-11-01"
   },
   {
    "id": "0d1d9d3412f8",
@@ -2923,5 +2968,5 @@
    "last_seen": "2026-10-29"
   }
  ],
- "updated": "2026-10-31T12:23+00:00"
+ "updated": "2026-11-01T12:25+00:00"
 }
